@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se este protótipo for útil, cite o repositório e o artigo BioQEC associado."
+title: "BioQEC Prototype"
+type: software
+authors:
+  - family-names: "Gomes"
+    given-names: "Fabrício Kleinicke"
+version: 0.2.0
+date-released: 2026-08-05
+license: MIT
